@@ -1,7 +1,7 @@
 House Price Prediction Using Machine Learning 
 
 Project Description
-
+ 
 The House Price Prediction System is a machine learning project designed to predict the estimated selling price of a house based on various property features. The system analyzes factors such as area, number of bedrooms, bathrooms, floors, and age of the property to generate price predictions using a trained machine learning model.
 
 The project uses Python and popular data science libraries to preprocess data, train the model, evaluate its performance, and make predictions. A user-friendly web interface allows users to enter property details and view the estimated house price. 
