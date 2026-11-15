@@ -8,6 +8,7 @@ The project uses Python and popular data science libraries to preprocess data, t
 
 Technologies Used
 
+
 Programming Language: Python
 
 Machine Learning: Scikit-learn
